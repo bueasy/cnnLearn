@@ -18,4 +18,5 @@ CNN主要在应用在图像识别领域。CNN对图像的处理跟脑对外界�
 卷积定理：时域上的卷积等于频域上的乘积
 http://www.qiujiawei.com/convolution/
 https://zhuanlan.zhihu.com/wille/19763358
+https://zhuanlan.zhihu.com/p/23739221
 
