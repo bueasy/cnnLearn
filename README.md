@@ -20,3 +20,9 @@ http://www.qiujiawei.com/convolution/
 https://zhuanlan.zhihu.com/wille/19763358
 https://zhuanlan.zhihu.com/p/23739221
 
+《解析卷积神经网络》阅读笔记
+## 前言
+人工智能、机器学习、表示学习、深度学习和卷积神经网络（CNN）之间的关系
+深度学习的三次高潮和两次衰弱
+
+## CNN基础概念
